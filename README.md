@@ -1,7 +1,9 @@
-# Socail-Media-App
+# Social-Media-App
 
 Building a social Media app using Mongodb, Express, React, Nodejs and Graphql.
 
-## Graphql
+## Setting Up Database and server
 
-1. What is Graphql ?
+1. Nodejs
+2. Mongodb
+3.
